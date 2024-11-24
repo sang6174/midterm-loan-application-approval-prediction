@@ -37,4 +37,3 @@ Deliverables:
 - Source code (Organization and well-commented).
 - A r5-minute presentation summarizing findings and a demo of the prediction interface.
 - A detailed report (5 - 7 pages).
-
