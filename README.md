@@ -1,4 +1,5 @@
 Project 2: Loan Application Approval Prediction
+
 I. Objective
 Development a machine learning model to predict loan appication acceptance or rejection based on  customer details.
 
